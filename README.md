@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @carablythe
+- 👋 Hi, I’m Cara Blythe Phillips.
 - 👀 I’m interested in front-end development, instructional design and technical writing.
 - 🌱 I’m currently learning Wordpress, Typescript and DITA.
 - 💞️ I’m looking to collaborate on any app or e-learning project; just let me know!
